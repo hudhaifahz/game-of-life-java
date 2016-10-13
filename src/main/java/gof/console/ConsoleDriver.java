@@ -3,7 +3,7 @@ package gof.console;
 import gof.core.Board;
 import gof.core.Cell;
 import gof.core.DisplayDriver;
-
+//test text
 public class ConsoleDriver implements DisplayDriver {
     public void displayBoard(Board board) {
         Cell[][] grid = board.getGrid();
